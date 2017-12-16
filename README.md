@@ -14,19 +14,19 @@ Intended User/ Client: Video Game Enthusiasts, Retro Games Connoisseurs, Men & W
 Site Design:
 
 Structure 
-Home
-Log-in Page
-Registration Page
+Home,
+Log-in Page,
+Registration Page,
 Database Page
   
   II.      Functional Requirements
 	Log-in Module, Search Module, Database of Information about Games, Connection to the Database, CRUD Functionalities
    
  III.     Links Used:
-		w3schools.com
-		youtube.com/user/TheHelpingDevelop
-		youtube.com/user/phpacademy
-		Kotaku.com.au
+		www.w3schools.com,
+		youtube.com/user/TheHelpingDevelop,
+		youtube.com/user/phpacademy,
+		image: www.Kotaku.com.au/2015/09/creator-of-hardest-super-mario-level-ever-says-copyright-crackdown-gutted-his-youtube-channel/,
 		php.net
 		
 Project Timeline:
